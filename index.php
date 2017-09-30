@@ -12,7 +12,7 @@ if(isset($_POST['nomprenoms'])  AND !empty ($_POST['email']) AND !empty ($_POST[
 	$message='Nom : '.$nomprenoms.' '."\n".$email.' '."\n"."\n".'Message : '.$message;
 	
 	
-	echo mail($destinataire, $sujet, $message, $entete);
+	mail($destinataire, $sujet, $message, $entete);
 	
 	$result="Votre émail a été envoyé avec succès.";
 	
