@@ -87,7 +87,7 @@ if(isset($_POST['nomprenoms'])  AND !empty ($_POST['email']) AND !empty ($_POST[
 			<div class="container">
 				<h1 style="padding: 10px;">ANALYSTE PROGRAMMEUR</h1>
 				<hr>
-				<p>Salut, Je suis SANDA Faysal, Consultant en informatique, Analyste programmeur Développeur web et android, Technicien Réseaux informatiques et maintenance.</p>
+				<p>Salut, Je suis SANDA Faysal, Consultant en informatique, Président du <a href="http://groupec.net/" target="_blank" >GROUPE C</a> ,Analyste programmeur, Développeur web et android, Technicien Réseaux informatiques et maintenance.</p>
 			</div><!-- container -->
 		</section><!-- section -->
 
@@ -96,20 +96,16 @@ if(isset($_POST['nomprenoms'])  AND !empty ($_POST['email']) AND !empty ($_POST[
 			<div class="container">
 			<br>
 				<div class="row">
-					<div class="col-lg-3 centered">
-						<img class="img-responsive" src="assets/img/FAYSAL_TOF.jpg" align="">
+					<div class="col-lg-4 centered">
+						<img class="img-responsive" src="assets/img/faysal2.JPG" align="">
 					</div>
-					<div class="col-lg-9" >
+					<div class="col-lg-8" style="margin-top: 15px;">
 						<h2 style="margin: 0px;">A propos de moi</h2>
-						<p>Analyste programmeur, Technicien Réseaux informatiques et maintenance et Consultant en informatique avec plus de 3 ans d'expérience. J’ai parcouru un peu pas mal d’entreprise à savoir : 
-						-CNHU ou j’ai notamment travailler  aux services Réseaux informatiques et maintenance
-						-TEKXL ou j’ai fait une période brève de 1 mois
-						-STRATEX ou j’ai été Consultant sur Excel avancé et Conception d’applications Excel VBA
-						-et actuellement Développeur Web/Android à INOVACT SARL.
-						Tout ceci m’a permis d’avoir pas mal d’expérience dans le domaine des TIC et donc de développer quelques applications et site web que j'ai développé à des entreprises et des particuliers et que je vous laisse découvrir dans mon portfolio.
+						<p>Aujourd’hui <b>Consultant en informatique et Entrepreneur indépendant</b>avec plus de 3 ans d'expérience. J’ai parcouru un peu pas mal d’entreprise à savoir : 
+						CNHU, TEKXL, STRATEX, INOVACT SARL, EALL GROUP et actuellement consultant à TOP-SYSTEM.
+						Tout ceci m’a permis d’avoir pas mal d’expérience dans le domaine des TIC et donc de développer des applications et site web à des entreprises et des particuliers et que je vous laisse découvrir dans mon portfolio.
 						</p>
 					</div>	
-				
 
 				</div><!-- row -->
 			</div>
@@ -149,7 +145,7 @@ if(isset($_POST['nomprenoms'])  AND !empty ($_POST['email']) AND !empty ($_POST[
 				<div class="col-lg-4">
 				<div class="product_price">
 					 <h4 class="price">JS</h4>
-                     <div class="price-tax">Javascript, JQuery</div>
+                     <div class="price-tax">Javascript, JQuery, D3.js</div>
 				</div>
 				</div>
 
@@ -163,21 +159,21 @@ if(isset($_POST['nomprenoms'])  AND !empty ($_POST['email']) AND !empty ($_POST[
 				<div class="col-lg-4">
 				<div class="product_price">
 					 <h4 class="price">CMS</h4>
-                     <div class="price-tax">Wordpress, SPIP</div>
+                     <div class="price-tax">Wordpress, SPIP, Magento</div>
 				</div>
 				</div>
 
-				<div class="col-lg-4">
+				<div class="col-lg-6">
 				<div class="product_price">
 					 <h4 class="price">Versionnage</h4>
                      <div class="price-tax">GIT, SVN</div>
 				</div>
 				</div>
 
-				<div class="col-lg-4">
+				<div class="col-lg-6">
 				<div class="product_price">
-					 <h4 class="price">Outils Gestion de projets</h4>
-                     <div class="price-tax">Trello</div>
+					 <h4 class="price">Autres</h4>
+                     <div class="price-tax">TALEND </div>
 				</div>
 				</div>
 
@@ -361,7 +357,7 @@ if(isset($_POST['nomprenoms'])  AND !empty ($_POST['email']) AND !empty ($_POST[
 				        <div class="modal-body">
 				          <p><img class="img-responsive" src="assets/img/portfolio/segim-folio2.PNG" alt=""></p>
 				          <p>Site web réalisé à la SEGIM-SA du Togo lui permettant de promouvoir ses parcelles et pavillons en ligne.</p>
-				          <p><b><a href="http://www.segimtogo.tg">Visiter le site</a></b></p>
+				          <p><b><a href="http://www.segimtogo.tg/wsgm1601">Visiter le site</a></b></p>
 				        </div>
 				        <div class="modal-footer">
 				          <button type="button" class="btn btn-default" data-dismiss="modal">Fermer</button>
@@ -433,7 +429,7 @@ if(isset($_POST['nomprenoms'])  AND !empty ($_POST['email']) AND !empty ($_POST[
 					<h3>Informations de contact</h3>
 					<p><span class="icon icon-home"></span> Cotonou, Zogbo<br/>
 						<span class="icon icon-phone"></span> +229 67590465 <br/>
-						<span class="icon icon-facebook"></span> <a href="#">Faysal SANDA </a> <br/>
+						<span class="icon icon-facebook"></span> <a href="https://www.facebook.com/faysal.sanda.1" target="_blank">Faysal SANDA </a> <br/>
 					</p>
 				</div><!-- col -->
 				
